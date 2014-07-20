@@ -11,3 +11,26 @@ two:
   description: MyText
   image_url: MyString
   price: 9.99
+
+irs:
+  title: I.R.S. Records
+  description: 
+   I.R.S. Records is an American independent record label, 
+   launched in the United States in 1979 by Miles Copeland 
+   III along with Jay Boberg and Carl Grasso. Miles was also 
+   the manager of Wishbone Ash, The Police (which counted Miles' 
+   brother Stewart as one of its members), and later, Sting, 
+   as well as other bands. The "I.R.S." in the title stands 
+   for International Record Syndicate (Inc.), as a play on the 
+   initialism of the Internal Revenue Service. I.R.S. was the 
+   sister label of Copeland's Illegal Records (UK). I.R.S. 
+   releases were distributed by A&M Records until 1985, by 
+   MCA Records until 1990, and finally by EMI until the label 
+   folded in 1996. In 2011, EMI revived the label; as of 2012, 
+   the new label has Chiddy Bang and Foxy Shazam on its roster. 
+   In October 2013, shortly after the full integration of EMI 
+   within its successor Universal Music Group, the label was 
+   revived again as I.R.S. Nashville, with Striking Matches and 
+   Cowboy Jack Clement on its roster.
+  image_url: IRSRecords_logo.jpg
+  price: 100.00
