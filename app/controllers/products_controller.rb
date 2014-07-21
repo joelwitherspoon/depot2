@@ -67,6 +67,10 @@ class ProductsController < ApplicationController
     end
   end
 
+  def self.latest
+    Product.order(:updated_at).latest
+  end
+  
   private
     # Use callbacks to share common setup or constraints between actions.
     def set_product
